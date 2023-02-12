@@ -1,4 +1,4 @@
-# Awesome-GPT-papers
+# Awesome-GPT-papers[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Awesome papers about the study of big language model like GPT-3, GPT-3.5, ChatGPT, GPT-4
 
