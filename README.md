@@ -4,7 +4,7 @@ Awesome papers about the study of large language models like GPT-3, GPT-3.5, Cha
 
 ## 2023
 
-* Large Language Models Can Be Easily Distracted by Irrelevant Contex (**ARXIX, 2023**) [[paper](https://arxiv.org/pdf/2302.00093.pdf)]
+* Large Language Models Can Be Easily Distracted by Irrelevant Context (**ARXIX, 2023**) [[paper](https://arxiv.org/pdf/2302.00093.pdf)]
 
 * Theory of Mind May Have Spontaneously Emerged in Large Language Models (**ARXIV, 2023**) [[paper](https://arxiv.org/ftp/arxiv/papers/2302/2302.02083.pdf)]
 
