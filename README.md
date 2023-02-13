@@ -14,6 +14,8 @@ Awesome papers, datasets and projects about the study of large language models l
 
 * Theory of Mind May Have Spontaneously Emerged in Large Language Models (**ARXIV, 2023**) [[paper](https://arxiv.org/ftp/arxiv/papers/2302/2302.02083.pdf)]
 
+* ChatGPT Makes Medicine Easy to Swallow: An Exploratory Case Study on Simplified Radiology Reports (**ARXIV, 2023**) [[paper](https://arxiv.org/pdf/2212.14882.pdf)]
+
 ## 2022
 
 * Large Language Models are Zero-Shot Reasoners (**Neurips, 2022**) [[paper](https://arxiv.org/pdf/2205.11916.pdf)]
