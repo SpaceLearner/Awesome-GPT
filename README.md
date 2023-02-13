@@ -25,4 +25,4 @@ Awesome papers about the study of large language models like GPT-3, GPT-3.5, Cha
 
 # Datasets
 
-* [[Hello-SimpleAI/HC3](https://huggingface.co/datasets/Hello-SimpleAI/HC3)]
+* [Hello-SimpleAI/HC3](https://huggingface.co/datasets/Hello-SimpleAI/HC3)
