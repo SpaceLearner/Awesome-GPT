@@ -21,3 +21,8 @@ Awesome papers about the study of large language models like GPT-3, GPT-3.5, Cha
 ## 2020
 
 * Language Models are Few-shot Learners (**Neurips, 2020**) [[paper](https://arxiv.org/pdf/2005.14165.pdf)]
+
+
+# Datasets
+
+* [[Hello-SimpleAI/HC3](https://huggingface.co/datasets/Hello-SimpleAI/HC3)]
