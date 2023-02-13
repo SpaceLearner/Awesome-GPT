@@ -1,6 +1,6 @@
 # Awesome-GPT-papers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Awesome papers about the study of large language models like GPT-3, GPT-3.5, ChatGPT, GPT-4, etc.
+Awesome papers, datasets and projects about the study of large language models like GPT-3, GPT-3.5, ChatGPT, GPT-4, etc.
 
 ## 2023
 
@@ -26,3 +26,7 @@ Awesome papers about the study of large language models like GPT-3, GPT-3.5, Cha
 # Datasets
 
 * [Hello-SimpleAI/HC3](https://huggingface.co/datasets/Hello-SimpleAI/HC3)
+
+# Projects
+
+* [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
