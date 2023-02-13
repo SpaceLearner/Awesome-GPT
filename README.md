@@ -2,6 +2,8 @@
 
 Awesome papers, datasets and projects about the study of large language models like GPT-3, GPT-3.5, ChatGPT, GPT-4, etc.
 
+# Papers
+
 ## 2023
 
 * How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection (**ARXIV, 2023**) [[paper](https://arxiv.org/pdf/2301.07597.pdf)]
