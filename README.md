@@ -22,12 +22,13 @@ Awesome papers, datasets and projects about the study of large language models l
 
 ## 2021
 
+* Medically Aware GPT-3 as a Data Generator for Medical Dialogue Summarization (**PMLR, 2021**) [[paper](https://proceedings.mlr.press/v149/chintagunta21a/chintagunta21a.pdf)]
+
 * GPT Understands, Too (**ARXIV, 2021**) [[paper](https://arxiv.org/pdf/2103.10385.pdf)]
 
 ## 2020
 
 * Language Models are Few-shot Learners (**Neurips, 2020**) [[paper](https://arxiv.org/pdf/2005.14165.pdf)]
-
 
 # Datasets
 
