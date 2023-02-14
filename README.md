@@ -4,6 +4,10 @@ Awesome papers, datasets and projects about the study of large language models l
 
 # Papers
 
+# Survey
+
+* A Survey on In-context Learning (**ARXIV, 2023**) [[paper](https://arxiv.org/pdf/2301.00234.pdf)]
+
 ## 2023
 
 * Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought (**ICLR, 2023**) [[paper](https://arxiv.org/pdf/2210.01240.pdf)][[code](https://github.com/asaparov/prontoqa)]
