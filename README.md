@@ -24,6 +24,8 @@ Awesome papers, datasets and projects about the study of large language models l
 
 * Large Language Models are Zero-Shot Reasoners (**Neurips, 2022**) [[paper](https://arxiv.org/pdf/2205.11916.pdf)]
 
+* Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers (**ARXIV, 2022**) [[paper](https://arxiv.org/pdf/2212.10559.pdf)]
+
 ## 2021
 
 * Medically Aware GPT-3 as a Data Generator for Medical Dialogue Summarization (**PMLR, 2021**) [[paper](https://proceedings.mlr.press/v149/chintagunta21a/chintagunta21a.pdf)]
