@@ -10,6 +10,12 @@ Awesome papers, datasets and projects about the study of large language models l
 
 ## 2023
 
+* ReAct: Synergizing Reasoning and Acting in Language Models (**ICLR, 2023, Notable-top-5%**) [[paper](https://openreview.net/pdf?id=WE_vluYUL-X)][[code](https://anonymous.4open.science/r/ReAct-2268/)]
+
+* Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning (**ICLR, 2023, Notable-top-5%**) [[paper](https://openreview.net/pdf?id=3Pf3Wg6o-A4)]
+
+* What learning algorithm is in-context learning? Investigations with linear models (**ICLR, 2023, Notable-top-5%**) [[paper](https://openreview.net/pdf?id=0g0X4H8yN4I)]
+
 * Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought (**ICLR, 2023**) [[paper](https://arxiv.org/pdf/2210.01240.pdf)][[code](https://github.com/asaparov/prontoqa)]
 
 * How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection (**ARXIV, 2023**) [[paper](https://arxiv.org/pdf/2301.07597.pdf)]
@@ -23,6 +29,8 @@ Awesome papers, datasets and projects about the study of large language models l
 ## 2022
 
 * Large Language Models are Zero-Shot Reasoners (**Neurips, 2022**) [[paper](https://arxiv.org/pdf/2205.11916.pdf)]
+
+* Rethinking the Role of Demonstrations: What Makes In-Context Learning Work? (**ARXIV, 2022**) [[paper](https://arxiv.org/pdf/2202.12837.pdf)]
 
 * Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers (**ARXIV, 2022**) [[paper](https://arxiv.org/pdf/2212.10559.pdf)]
 
