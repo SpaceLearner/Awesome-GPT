@@ -32,7 +32,7 @@ Awesome papers, datasets and projects about the study of large language models l
 
 * What can transformers learn in-context? a case study of simple function classes (**ARXIV, 2022**) [[paper](https://arxiv.org/pdf/2208.01066.pdf)][[code](https://github.com/dtsip/in-context-learning)]
 
-* Rethinking the Role of Demonstrations: What Makes In-Context Learning Work? (**ARXIV, 2022**) [[paper](https://arxiv.org/pdf/2202.12837.pdf)]
+* Rethinking the Role of Demonstrations: What Makes In-Context Learning Work? (**ARXIV, 2022**) [[paper](https://arxiv.org/pdf/2202.12837.pdf)][[code](https://github.com/Alrope123/rethinking-demonstrations)]
 
 * Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers (**ARXIV, 2022**) [[paper](https://arxiv.org/pdf/2212.10559.pdf)]
 
