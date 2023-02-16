@@ -30,8 +30,7 @@ Awesome papers, datasets and projects about the study of large language models l
 
 * Large Language Models are Zero-Shot Reasoners (**Neurips, 2022**) [[paper](https://arxiv.org/pdf/2205.11916.pdf)]
 
-* What can transformers learn in-context? a case study of simple function classes (**ARXIV, 2022**) [[paper](What Can Transformers Learn In-Context?
-A Case Study of Simple Function Classes)][[code](https://github.com/dtsip/in-context-learning)]
+* What can transformers learn in-context? a case study of simple function classes (**ARXIV, 2022**) [[paper](https://arxiv.org/pdf/2208.01066.pdf)][[code](https://github.com/dtsip/in-context-learning)]
 
 * Rethinking the Role of Demonstrations: What Makes In-Context Learning Work? (**ARXIV, 2022**) [[paper](https://arxiv.org/pdf/2202.12837.pdf)]
 
