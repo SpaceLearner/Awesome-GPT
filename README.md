@@ -20,6 +20,8 @@ Awesome papers, datasets and projects about the study of large language models l
 
 * Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought (**ICLR, 2023**) [[paper](https://arxiv.org/pdf/2210.01240.pdf)][[code](https://github.com/asaparov/prontoqa)]
 
+* Can GPT-3 Perform Statutory Reasoning? (**ARXIV, 2023**) [[paper](https://arxiv.org/pdf/2302.06100v1.pdf)]
+
 * How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection (**ARXIV, 2023**) [[paper](https://arxiv.org/pdf/2301.07597.pdf)]
 
 * Large Language Models Can Be Easily Distracted by Irrelevant Context (**ARXIX, 2023**) [[paper](https://arxiv.org/pdf/2302.00093.pdf)]
