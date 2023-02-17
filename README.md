@@ -8,6 +8,8 @@ Awesome papers, datasets and projects about the study of large language models l
 
 * A Survey on In-context Learning (**ARXIV, 2023**) [[paper](https://arxiv.org/pdf/2301.00234.pdf)]
 
+* A SURVEY ON GPT-3 (**ARXIV, 2023**) [[paper](https://arxiv.org/pdf/2212.00857.pdf)]
+
 ## 2023
 
 * ReAct: Synergizing Reasoning and Acting in Language Models (**ICLR, 2023, Notable-top-5%**) [[paper](https://openreview.net/pdf?id=WE_vluYUL-X)][[code](https://anonymous.4open.science/r/ReAct-2268/)]
