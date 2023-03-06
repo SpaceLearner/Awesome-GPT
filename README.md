@@ -18,9 +18,9 @@ Awesome papers, datasets and projects about the study of large language models l
 
 * What learning algorithm is in-context learning? Investigations with linear models (**ICLR, 2023, Notable-top-5%**) [[paper](https://openreview.net/pdf?id=0g0X4H8yN4I)]
 
-* Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought (**ICLR, 2023**) [[paper](https://arxiv.org/pdf/2210.01240.pdf)][[code](https://github.com/asaparov/prontoqa)]
+* Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought. (**ICLR, 2023**) [[paper](https://arxiv.org/pdf/2210.01240.pdf)][[code](https://github.com/asaparov/prontoqa)]
 
-* Toolformer: Language Models Can Teach Themselves to Use Tools. [[paper](https://arxiv.org/pdf/2302.04761.pdf)][[code](https://github.com/lucidrains/toolformer-pytorch)]
+* Toolformer: Language Models Can Teach Themselves to Use Tools. (**ARXIV, 2023**) [[paper](https://arxiv.org/pdf/2302.04761.pdf)][[code](https://github.com/lucidrains/toolformer-pytorch)]
 
 * Can GPT-3 Perform Statutory Reasoning? (**ARXIV, 2023**) [[paper](https://arxiv.org/pdf/2302.06100v1.pdf)]
 
@@ -47,6 +47,8 @@ Awesome papers, datasets and projects about the study of large language models l
 * Medically Aware GPT-3 as a Data Generator for Medical Dialogue Summarization (**PMLR, 2021**) [[paper](https://proceedings.mlr.press/v149/chintagunta21a/chintagunta21a.pdf)]
 
 * GPT Understands, Too (**ARXIV, 2021**) [[paper](https://arxiv.org/pdf/2103.10385.pdf)]
+
+* WebGPT: Browser-assisted question-answering with human feedback （**ARXIV, 2021**） [[paper](https://arxiv.org/pdf/2112.09332.pdf)][[code](https://www.microsoft.com/en-us/bing/apis/bing-web-search-api)]
 
 ## 2020
 
