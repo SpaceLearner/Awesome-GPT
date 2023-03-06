@@ -22,6 +22,8 @@ Awesome papers, datasets and projects about the study of large language models l
 
 * Toolformer: Language Models Can Teach Themselves to Use Tools. (**ARXIV, 2023**) [[paper](https://arxiv.org/pdf/2302.04761.pdf)][[code](https://github.com/lucidrains/toolformer-pytorch)]
 
+* Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback. (**ARXIV, 2023**) [[paper](https://arxiv.org/pdf/2302.12813.pdf)]
+
 * Can GPT-3 Perform Statutory Reasoning? (**ARXIV, 2023**) [[paper](https://arxiv.org/pdf/2302.06100v1.pdf)]
 
 * How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection (**ARXIV, 2023**) [[paper](https://arxiv.org/pdf/2301.07597.pdf)]
