@@ -20,6 +20,8 @@ Awesome papers, datasets and projects about the study of large language models l
 
 * Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought. (**ICLR, 2023**) [[paper](https://arxiv.org/pdf/2210.01240.pdf)][[code](https://github.com/asaparov/prontoqa)]
 
+* Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models. (**ARXIV, 2023**) [[paper](https://arxiv.org/pdf/2303.04671.pdf)][[code](https://github.com/microsoft/visual-chatgpt)]
+
 * Toolformer: Language Models Can Teach Themselves to Use Tools. (**ARXIV, 2023**) [[paper](https://arxiv.org/pdf/2302.04761.pdf)][[code](https://github.com/lucidrains/toolformer-pytorch)]
 
 * Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback. (**ARXIV, 2023**) [[paper](https://arxiv.org/pdf/2302.12813.pdf)]
