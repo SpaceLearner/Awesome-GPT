@@ -12,6 +12,8 @@ Awesome papers, datasets and projects about the study of large language models l
 
 ## 2023
 
+* GPT-4 Technical Report (**OPENAI, 2023**) [[paper](https://cdn.openai.com/papers/gpt-4.pdf)]
+
 * ReAct: Synergizing Reasoning and Acting in Language Models (**ICLR, 2023, Notable-top-5%**) [[paper](https://openreview.net/pdf?id=WE_vluYUL-X)][[code](https://anonymous.4open.science/r/ReAct-2268/)]
 
 * Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning (**ICLR, 2023, Notable-top-5%**) [[paper](https://openreview.net/pdf?id=3Pf3Wg6o-A4)]
