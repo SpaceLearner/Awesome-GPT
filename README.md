@@ -10,6 +10,8 @@ Awesome papers, datasets and projects about the study of large language models l
 
 * A SURVEY ON GPT-3 (**ARXIV, 2023**) [[paper](https://arxiv.org/pdf/2212.00857.pdf)]
 
+* A Survey of Large Language Models (**ARXIV, 2023**) [[paper](https://arxiv.org/pdf/2303.18223.pdf)]
+
 ## 2023
 
 * GPT-4 Technical Report (**OPENAI, 2023**) [[paper](https://cdn.openai.com/papers/gpt-4.pdf)]
